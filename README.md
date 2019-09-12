@@ -1,0 +1,21 @@
+# Challenge-dan-Jobsheet-Array
+# Hasil 1
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Array1.png "Hasil Satu")
+# Hasil 2
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Array1-2.png "Hasil Dua")
+# Hasil 3
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Array2-1.png "Hasil Tiga")
+# Hasil 4
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Array2-2.png "Hasil Empat")
+# Hasil 5
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Temansederet.png "Hasil Lima")
+# Hasil 6
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/nilaiujiansiswa.png "Hasil Enam")
+# Hasil 7
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/praktikum1-1.png "Hasil Tujuh")
+# Hasil 8
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Error.png "Hasil Delapan")
+# Hasil 9
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/praktikum1-2.png "Hasil Sembilan")
+# Hasil 10
+#![AltText](https://github.com/najmi10/Challenge-dan-Jobsheet-Array/blob/master/Challengearray.png "Hasil Sepuluh")
